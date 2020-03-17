@@ -1,0 +1,6 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/RoyallarsYTVIP/62z26
+build-by-default: true
+branches:
+- master
+projects: []
+...
